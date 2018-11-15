@@ -7,7 +7,6 @@ a{
 }
 .center{
 	text-align: center;
-	align:center;
 }
 .ri_ma{
 	margin-right: 1px;
@@ -128,6 +127,8 @@ a{
 	background-color: #83956f;
 }
 .box a , #foot a{
+	width: 100%;
+	height:auto;
 	text-decoration: underline;
 	color: #db8846;
 }
