@@ -132,7 +132,7 @@ a{
 	color: #db8846;
 }
 .box h3{
-	width: 226px;
+	width: 100%;
 	height: 68px;
 	line-height: 68px;
 	font-size: 15px;
@@ -212,7 +212,9 @@ a{
 	font-size: 10px;
 }
 #img{
+	float:left;
 	margin-left: 10px;
+	margin-right: 9px;
 	width:132px;
 	height: 132px;
 	border-top-width: 1px;
@@ -232,6 +234,9 @@ a{
 	width:120px;
 	height: 120px;
 	margin-top: 7px;
+}
+#text span{
+	
 }
 
 
